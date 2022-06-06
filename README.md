@@ -4,10 +4,15 @@ Repositório com os arquivos referente a entrega do projeto de governança em Ti
 Alunos participantes do projeto:
 
 André Guedes - RA: 419108681
+
 Gustavo Dantas Nascimento - RA: 2219105541
+
 Josimar Medrado Rocha - RA: 2219106493
+
 Matheus Meneses de Oliveira - RA: 419115363
+
 Matheus Pequeno Vieira - RA: 2219107415
+
 
 Projeto desenvolvido sob Orientação do Professor Edson Melo De Souza da disciplina de Ciência de Dados/Projeto de Governança em TI.
 
